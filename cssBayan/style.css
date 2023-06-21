@@ -1,0 +1,28 @@
+body {
+    background-color: beige;
+    max-width: 1920px;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 500;
+    font-size: 36px;
+}
+h1 {
+    font-size: 48px;
+    font-weight: lighter;
+}
+img {
+    max-width: 500px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.container {
+    padding: 30px;
+}
+.section-name {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
